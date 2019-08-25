@@ -4,7 +4,7 @@ Here we build a machine learning model to predict house prices for a fictitious 
 ## Objective
 Dragon Real Estate (fictitious) has hired us as a Data Science Engineer to predict the house prices and we are given a data set with the house prices according to the relevant features.
 
-Data Dictionary - Feature / Attribute Information:
+### Data Dictionary - Feature / Attribute Information:
 
     1. CRIM      per capita crime rate by town
     2. ZN        proportion of residential land zoned for lots over 
@@ -25,10 +25,10 @@ Data Dictionary - Feature / Attribute Information:
     14. MEDV     Median value of owner-occupied homes in $1000's
 
 ## Files Information
-
-**Dragon Real Estate_Price Prediction ML Model.ipynb** - Main Python notebook where the model is defined
-**Dragon.joblib** - Joblib file for the ML model
-**Model Application.ipynb** - Python notebook which loads the model to predict the house prices for given features
-**housing data.csv** - Dataset in CSV
-**housing.data** - Dataset
+<br>
+**Dragon Real Estate_Price Prediction ML Model.ipynb** - Main Python notebook where the model is defined<br>
+**Dragon.joblib** - Joblib file for the ML model<br>
+**Model Application.ipynb** - Python notebook which loads the model to predict the house prices for given features<br>
+**housing data.csv** - Dataset in CSV<br>
+**housing.data** - Dataset<br>
 **housing.names** - Information on the dataset
