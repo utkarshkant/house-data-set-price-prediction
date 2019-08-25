@@ -25,7 +25,7 @@ Dragon Real Estate (fictitious) has hired us as a Data Science Engineer to predi
     14. MEDV     Median value of owner-occupied homes in $1000's
 
 ## Files Information
-<br>
+<br></br>
 **Dragon Real Estate_Price Prediction ML Model.ipynb** - Main Python notebook where the model is defined<br>
 **Dragon.joblib** - Joblib file for the ML model<br>
 **Model Application.ipynb** - Python notebook which loads the model to predict the house prices for given features<br>
